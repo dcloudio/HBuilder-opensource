@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Ast Plug-in
+Bundle-SymbolicName: org.python.pydev.ast; singleton:=true
+Bundle-Version: 0.9.7.1
+Bundle-ClassPath: ast.jar
+Bundle-Activator: org.python.pydev.ast.AstPlugin
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Eclipse-LazyStart: true
+Export-Package: org.python.pydev.ast,
+ org.python.pydev.ast.management
+Bundle-Vendor: Aptana

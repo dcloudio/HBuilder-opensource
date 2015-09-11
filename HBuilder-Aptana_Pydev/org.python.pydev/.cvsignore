@@ -1,0 +1,14 @@
+org.totic.pydev_0.1.0.zip
+pydevsrc.zip
+pydev.jar
+bin
+build.xml
+temp.testcache
+pydev.Spp
+Thumbs.db
+*.cachedir
+python.pydevsysteminfo
+testProjectStub.pydevinfo
+indexcache
+AdditionalProjectInterpreterInfo.pydevinfo
+.pydevproject

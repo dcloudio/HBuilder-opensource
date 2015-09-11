@@ -1,0 +1,24 @@
+javadoc options:
+-link http://download2.eclipse.org/downloads/documentation/2.0/html/plugins/org.eclipse.platform.doc.isv/reference/api/ -quiet
+
+SOURCEFORGE access:
+ scp index.html atotic@shell.sourceforge.net:/home/groups/p/py/pydev/htdocs
+WISHLIST
+
+TODO highlighting in task list
+New wizard (python project, class, python package, chandler parcel
+Code snippets
+
+DOCUMENTATION
+
+Overview of how text editor works:
+http://dev.eclipse.org/newslists/news.eclipse.tools/msg61602.html
+
+Class navigation
+PyEdit creates PyDocumentProvider
+PyDocumentProvider creates document 
+
+EditorsPlugin.getDefault().getSharedTextColors();
+
+CLASS DOCS
+
