@@ -1,9 +1,0 @@
-providerName = HBuilder
-pluginName = HBuilder FTP UI
-
-newFTPConnectionAction.label = Add New FTP Site...
-duplicateAction.label = Duplicate
-FTPConsole.label = FTP
-
-category.ftp.name = FTP
-PreferencePage.ftp.label=Ftp

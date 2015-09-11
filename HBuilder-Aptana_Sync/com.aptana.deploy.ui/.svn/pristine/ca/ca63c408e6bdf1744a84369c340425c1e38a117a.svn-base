@@ -1,7 +1,0 @@
-#This is i18n file,please do not delete it!
-#Tue Jan 29 10:56:59 CST 2013
-Bundle-Vendor = HBuilder
-Bundle-Name = HBuilder Deploy UI
-Deploy.label=\u90E8\u7F72\u5E94\u7528\u7A0B\u5E8F
-command.deploysettings.name=\u90E8\u7F72\u8BBE\u7F6E...
-DeployWizard.label=\u8FD0\u884CWeb\u90E8\u7F72\u5411\u5BFC...

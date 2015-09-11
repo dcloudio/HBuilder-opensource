@@ -1,6 +1,0 @@
-#This is i18n file,please do not delete it!
-#Tue Jan 29 10:56:59 CST 2013
-Bundle-Vendor=Appcelerator, Inc.
-wizard.capistrano.description=Capistrano\u7684\u7F51\u7EDC\u90E8\u7F72\u3002\u901A\u5E38\u5728Rails\u793E\u533A\uFF0C\u5B83\u53EF\u4EE5\u7528\u4E8E\u5404\u79CD\u9879\u76EE\uFF0C\u5E76\u6709\u5229\u4E8E\u4ECE\u6E90\u4EE3\u7801\u63A7\u5236\u7CFB\u7EDF\n\uFF08\u5982GIT\uFF09\u7684\u4E00\u4E2A\u6216\u591A\u4E2A\u673A\u5668\u540C\u65F6\u90E8\u7F72\u4EE3\u7801\u3002
-Bundle-Name=Capistrano\u7684\u90E8\u7F72
-wizard.capistrano.name=Capistrano

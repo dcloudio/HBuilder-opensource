@@ -1,5 +1,0 @@
-providerName = HBuilder
-pluginName = HBuilder Secure FTP Filesystem
-
-connectionPointType.ftps.name = FTPS
-connectionPointType.sftp.name = SFTP
