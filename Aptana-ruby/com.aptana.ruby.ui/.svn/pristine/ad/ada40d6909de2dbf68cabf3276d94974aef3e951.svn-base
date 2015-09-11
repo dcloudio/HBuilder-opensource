@@ -1,7 +1,0 @@
-providerName = Aptana
-bundleName = Ruby UI
-
-wizard.ruby.name = Ruby Project
-wizard.rubynewproject.description = Create a new Ruby project
-
-RubyCategoryName=Ruby
