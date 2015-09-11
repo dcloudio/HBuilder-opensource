@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.aptana.php.feature"
+      label="%featureName"
+      version="0.5.4.qualifier"
+      provider-name="%providerName"
+      plugin="com.aptana.editor.php">
+
+   <description url="http://www.aptana.com">
+      %description
+   </description>
+
+   <copyright url="%copyrightURL">
+      %copyright
+   </copyright>
+
+   <requires>
+      <import plugin="org.eclipse.ui"/>
+      <import plugin="org.eclipse.ui.ide"/>
+      <import plugin="org.eclipse.core.runtime"/>
+      <import plugin="org.eclipse.core.resources"/>
+      <import plugin="org.eclipse.jface.text"/>
+      <import plugin="org.eclipse.ui.editors"/>
+      <import plugin="org.eclipse.ui.views"/>
+      <import plugin="org.eclipse.core.expressions"/>
+      <import plugin="org.eclipse.core.filesystem"/>
+      <import plugin="org.eclipse.ui.workbench.texteditor"/>
+      <import plugin="org.eclipse.ui.navigator"/>
+      <import plugin="com.aptana.editor.common"/>
+      <import plugin="com.aptana.parsing"/>
+      <import plugin="com.aptana.editor.html"/>
+      <import plugin="com.aptana.core"/>
+      <import plugin="com.aptana.theme"/>
+      <import plugin="beaver" version="1.0.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui.forms"/>
+      <import plugin="com.aptana.ui.epl"/>
+      <import plugin="com.aptana.projects"/>
+      <import plugin="com.aptana.editor.xml"/>
+      <import plugin="com.aptana.formatter.epl" version="3.0.0" match="greaterOrEqual"/>
+      <import plugin="com.aptana.formatter.ui.epl" version="3.0.0" match="greaterOrEqual"/>
+      <import plugin="com.aptana.ui" version="3.0.0" match="greaterOrEqual"/>
+      <import plugin="com.aptana.editor.html.formatter" version="3.0.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="com.aptana.editor.php"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.editor.php.epl"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.php.libraries"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+   <plugin
+         id="com.aptana.editor.php.formatter"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.php.debug"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.php.debug.epl"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>

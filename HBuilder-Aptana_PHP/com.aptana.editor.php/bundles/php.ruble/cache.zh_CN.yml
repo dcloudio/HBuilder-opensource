@@ -1,0 +1,1873 @@
+!!com.aptana.scripting.model.BundleElement
+author: Ciarón Walsh
+children:
+- !!com.aptana.scripting.model.MenuElement
+  children:
+  - children: &id001 []
+    commandName: Documentation for Word
+    customProperties: null
+    displayName: Documentation for Word
+    id: null
+    locationURI: null
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: '-'
+    customProperties: null
+    displayName: '-'
+    id: null
+    locationURI: null
+    path: bundle.rb
+    scope: null
+  - children:
+    - children:
+      - children: *id001
+        commandName: <?php ... ?>
+        customProperties: null
+        displayName: <?php ... ?>
+        id: null
+        locationURI: null
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: <?php echo ... ?>
+        customProperties: null
+        displayName: <?php echo ... ?>
+        id: null
+        locationURI: null
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: <?php echo htmlentities(...) ?>
+        customProperties: null
+        displayName: <?php echo htmlentities(...) ?>
+        id: null
+        locationURI: null
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: <?php if (...) ?> ... <?php endif ?>
+        customProperties: null
+        displayName: <?php if (...) ?> ... <?php endif ?>
+        id: null
+        locationURI: null
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: <?php if (...) ?> ... <?php else ?> ... <?php endif ?>
+        customProperties: null
+        displayName: <?php if (...) ?> ... <?php else ?> ... <?php endif ?>
+        id: null
+        locationURI: null
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: '<?php else: ?>'
+        customProperties: null
+        displayName: '<?php else: ?>'
+        id: null
+        locationURI: null
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: <?php foreach (...) ... <?php endforeach ?>
+        customProperties: null
+        displayName: <?php foreach (...) ... <?php endforeach ?>
+        id: null
+        locationURI: null
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: <?php $this->... ?>
+        customProperties: null
+        displayName: <?php $this->... ?>
+        id: null
+        locationURI: null
+        path: bundle.rb
+        scope: null
+      - children: *id001
+        commandName: <?php echo $this->... ?>
+        customProperties: null
+        displayName: <?php echo $this->... ?>
+        id: null
+        locationURI: null
+        path: bundle.rb
+        scope: null
+      commandName: Wrapped in <?php ?>
+      customProperties: null
+      displayName: Wrapped in <?php ?>
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: '-'
+      customProperties: null
+      displayName: '-'
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: if ...
+      customProperties: null
+      displayName: if ...
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: if ... else ...
+      customProperties: null
+      displayName: if ... else ...
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: else ...
+      customProperties: null
+      displayName: else ...
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: elseif ...
+      customProperties: null
+      displayName: elseif ...
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: for ...
+      customProperties: null
+      displayName: for ...
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: foreach ...
+      customProperties: null
+      displayName: foreach ...
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: switch ...
+      customProperties: null
+      displayName: switch ...
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: case ...
+      customProperties: null
+      displayName: case ...
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: while ...
+      customProperties: null
+      displayName: while ...
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: do ... while ...
+      customProperties: null
+      displayName: do ... while ...
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: class ...
+      customProperties: null
+      displayName: class ...
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: function ...
+      customProperties: null
+      displayName: function ...
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: '-'
+      customProperties: null
+      displayName: '-'
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Throw Exception
+      customProperties: null
+      displayName: Throw Exception
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    commandName: Declarations
+    customProperties: null
+    displayName: Declarations
+    id: null
+    locationURI: null
+    path: bundle.rb
+    scope: null
+  - children:
+    - children: *id001
+      commandName: $GLOBALS['...']
+      customProperties: null
+      displayName: $GLOBALS['...']
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: COOKIE['...']
+      customProperties: null
+      displayName: COOKIE['...']
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: ENV['...']
+      customProperties: null
+      displayName: ENV['...']
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: FILES['...']
+      customProperties: null
+      displayName: FILES['...']
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: GET['...']
+      customProperties: null
+      displayName: GET['...']
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: POST['...']
+      customProperties: null
+      displayName: POST['...']
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: REQUEST['...']
+      customProperties: null
+      displayName: REQUEST['...']
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: SERVER['...']
+      customProperties: null
+      displayName: SERVER['...']
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: SESSION['...']
+      customProperties: null
+      displayName: SESSION['...']
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    commandName: Globals
+    customProperties: null
+    displayName: Globals
+    id: null
+    locationURI: null
+    path: bundle.rb
+    scope: null
+  - children:
+    - children: *id001
+      commandName: return
+      customProperties: null
+      displayName: return
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: return true
+      customProperties: null
+      displayName: return true
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: return false
+      customProperties: null
+      displayName: return false
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    commandName: Return
+    customProperties: null
+    displayName: Return
+    id: null
+    locationURI: null
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: '-'
+    customProperties: null
+    displayName: '-'
+    id: null
+    locationURI: null
+    path: bundle.rb
+    scope: null
+  - children:
+    - children: *id001
+      commandName: Documentation for Tag
+      customProperties: null
+      displayName: Documentation for Tag
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: '-'
+      customProperties: null
+      displayName: '-'
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Start Docblock
+      customProperties: null
+      displayName: Start Docblock
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: '-'
+      customProperties: null
+      displayName: '-'
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Class
+      customProperties: null
+      displayName: Class
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Class Variable
+      customProperties: null
+      displayName: Class Variable
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: '-'
+      customProperties: null
+      displayName: '-'
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Constant Definition
+      customProperties: null
+      displayName: Constant Definition
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: '-'
+      customProperties: null
+      displayName: '-'
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Function
+      customProperties: null
+      displayName: Function
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Function Signature
+      customProperties: null
+      displayName: Function Signature
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: '-'
+      customProperties: null
+      displayName: '-'
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Header
+      customProperties: null
+      displayName: Header
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Interface
+      customProperties: null
+      displayName: Interface
+      id: null
+      locationURI: null
+      path: bundle.rb
+      scope: null
+    commandName: PHPDoc
+    customProperties: null
+    displayName: PHPDoc
+    id: null
+    locationURI: null
+    path: bundle.rb
+    scope: null
+  commandName: PHP
+  customProperties: null
+  displayName: PHP
+  id: null
+  locationURI: null
+  path: bundle.rb
+  scope: null
+- !!com.aptana.scripting.model.EnvironmentElement {customProperties: null, displayName: environment-69ebf145-c6c3-413d-b487-73bba236810c,
+  path: bundle.rb, scope: source.php}
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Documentation for Tag
+  id: null
+  input: [selection, word]
+  inputPath: null
+  keyBindingMap: null
+  menuId: null
+  outputPath: null
+  outputType: show_as_html
+  path: commands\documentation_for_tag.rb
+  runType: current_thread
+  scope: comment.block.documentation.phpdoc.php
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: [source.php]
+  displayName: Insert Call to Parent
+  id: null
+  input: [document]
+  inputPath: null
+  keyBindingMap: null
+  menuId: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: commands\insert_call_to_parent.rb
+  runType: current_thread
+  scope: source.php
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Documentation for Word
+  id: null
+  input: [selection, word]
+  inputPath: null
+  keyBindingMap: null
+  menuId: null
+  outputPath: null
+  outputType: show_as_html
+  path: commands\lookup_word_in_php_manual.rb
+  runType: current_thread
+  scope: source.php
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Help
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  menuId: null
+  outputPath: null
+  outputType: show_as_html
+  path: commands\phpdoc_help.rb
+  runType: current_thread
+  scope: source.php
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: [doc]
+  displayName: Post-doc
+  id: null
+  input: [document]
+  inputPath: null
+  keyBindingMap: null
+  menuId: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: commands\post-doc.rb
+  runType: current_thread
+  scope: source.php
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Run
+  id: null
+  input: [document]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [M1+M2+R]
+  menuId: null
+  outputPath: null
+  outputType: show_as_html
+  path: commands\run_php.rb
+  runType: current_thread
+  scope: source.php
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: 'Special: Return Inside an Empty Tag'
+  id: null
+  input: [selection, undefined]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [ENTER]
+  menuId: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: commands\special__return_inside_an_empty_tag.rb
+  runType: current_thread
+  scope: source.php.embedded.line.empty.html source.php
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Validate Syntax
+  id: null
+  input: [document]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [M4+M2+V]
+  menuId: null
+  outputPath: null
+  outputType: show_as_tooltip
+  path: commands\validate_syntax.rb
+  runType: current_thread
+  scope: source.php
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Wrap Docblock at 80 Characters
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  menuId: null
+  outputPath: null
+  outputType: insert_as_text
+  path: commands\wrap_docblock_at_80_characters.rb
+  runType: current_thread
+  scope: comment.block.documentation.phpdoc.php
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [$_]
+  description: null
+  displayName: COOKIE['...']
+  expansion: \$_COOKIE['${1:variable}']
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [$_]
+  description: null
+  displayName: ENV['...']
+  expansion: \$_ENV['${1:variable}']
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [$_]
+  description: null
+  displayName: FILES['...']
+  expansion: \$_FILES['${1:variable}']
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [$_]
+  description: null
+  displayName: GET['...']
+  expansion: \$_GET['${1:variable}']
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [$_]
+  description: null
+  displayName: POST['...']
+  expansion: \$_POST['${1:variable}']
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [$_]
+  description: null
+  displayName: REQUEST['...']
+  expansion: \$_REQUEST['${1:variable}']
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [$_]
+  description: null
+  displayName: SERVER['...']
+  expansion: \$_SERVER['${1:variable}']
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [$_]
+  description: null
+  displayName: SESSION['...']
+  expansion: \$_SESSION['${1:variable}']
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [globals]
+  description: null
+  displayName: $GLOBALS['...']
+  expansion: '\$GLOBALS[''${1:variable}'']${2: = }${3:something}${4:;}$0'
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [class]
+  description: null
+  displayName: class ...
+  expansion: "/**\n * $1\n */\nclass ${2:ClassName} extends ${3:AnotherClass} {\n\t\
+    $4\n\tfunction ${5:__construct}(${6:$argument}) {\n\t\t${0:// code...}\n\t}\n\
+    }\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [def]
+  description: null
+  displayName: define(..., ...)
+  expansion: 'define(''$1'', ''$2'');
+
+    $0'
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: ['def?']
+  description: null
+  displayName: defined(...)
+  expansion: defined('$1')$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [do]
+  description: null
+  displayName: do ... while ...
+  expansion: "do {\n\t${0:// code...}\n} while (${1:$a <= 10});"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [echo]
+  description: null
+  displayName: echo "..."
+  expansion: echo "${1:string}"${0};
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [else]
+  description: null
+  displayName: else ...
+  expansion: "else {\n\t${0:// code...}\n}"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [elseif]
+  description: null
+  displayName: elseif ...
+  expansion: "elseif (${1:condition}) {\n\t${0:// code...}\n}"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [for]
+  description: null
+  displayName: for ...
+  expansion: "for (\\$${1:i}=${2:0}; \\$${1:i} < $3; \\$${1:i}++) { \n\t${0:// code...}\n\
+    }"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [foreach]
+  description: null
+  displayName: foreach ...
+  expansion: "foreach (\\$${1:variable} as \\$${2:key} => \\$${3:value}) {\n\t${0://\
+    \ code...}\n}"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [fun]
+  description: null
+  displayName: function ...
+  expansion: "${1:public }function ${2:functionName}(\\$${3:value}${4:=''})\n{\n\t\
+    ${0:// code...}\n}"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [<<<]
+  description: null
+  displayName: Heredoc
+  expansion: '<<<${1:HTML}
+
+    ${2:content here}
+
+    $1;
+
+    '
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: ['if?']
+  description: null
+  displayName: '$... = ( ... ) ? ... : ...'
+  expansion: '\$${1:retVal} = (${2:condition}) ? ${3:a} : ${4:b} ;'
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [ifelse]
+  description: null
+  displayName: if ... else ...
+  expansion: "if (${1:condition}) {\n\t${2:// code...}\n} else {\n\t${3:// code...}\n\
+    }\n$0"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [if]
+  description: null
+  displayName: if ...
+  expansion: "if (${1:condition}) {\n\t${0:// code...}\n}"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [incl]
+  description: null
+  displayName: include ...
+  expansion: include '${1:file}';$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [incl1]
+  description: null
+  displayName: include_once ...
+  expansion: include_once '${1:file}';$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [array]
+  description: null
+  displayName: $... = array (...)
+  expansion: \$${1:arrayName} = array('$2' => ${3:,} $0);
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [doc_v]
+  description: null
+  displayName: Class Variable
+  expansion: "/**\n * ${3:undocumented class variable}\n *\n * @var ${4:string}\n\
+    \ */\n${1:var} \\$$2;$0"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [doc_c]
+  description: null
+  displayName: Class
+  expansion: "/**\n * ${3:undocumented class}\n *\n * @package ${4:default}\n * @author\
+    \ ${PHPDOC_AUTHOR} $5\n */\nclass ${1:ClassName} {$0\n} // END"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [doc_d]
+  description: null
+  displayName: Constant Definition
+  expansion: "/**\n * ${3:undocumented constant}\n */\ndefine($1, $2);$0"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [doc_s]
+  description: null
+  displayName: Function Signature
+  expansion: "/**\n * ${4:undocumented function}\n *\n * @return ${5:void}\n * @author\
+    \ ${PHPDOC_AUTHOR} $6\n */\nfunction ${1:functionName}($2);$0"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [doc_f]
+  description: null
+  displayName: Function
+  expansion: "/**\n * ${4:undocumented function}\n *\n * @return ${5:void}\n * @author\
+    \ ${PHPDOC_AUTHOR} $6\n */\nfunction ${1:functionName}($2) {$0\n}"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [doc_h]
+  description: null
+  displayName: Header
+  expansion: "/**\n * $1\n *\n * @author ${PHPDOC_AUTHOR}\n * @version \\$Id\\$\n\
+    \ * @copyright $2\n * @package ${3:default}\n */\n\n/**\n * Define DocBlock\n\
+    \ */\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [doc_i]
+  description: null
+  displayName: Interface
+  expansion: "/**\n * ${2:undocumented interface}\n *\n * @package ${3:default}\n\
+    \ * @author ${PHPDOC_AUTHOR} $4\n */\ninterface ${1:InterfaceName} {$0\n} // END\
+    \ interface $1"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [req]
+  description: null
+  displayName: require ...
+  expansion: require '${1:file}';$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [req1]
+  description: null
+  displayName: require_once ...
+  expansion: require_once '${1:file}';$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [ret]
+  description: null
+  displayName: return
+  expansion: return$1;$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [ret0]
+  description: null
+  displayName: return false
+  expansion: return false;$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [ret1]
+  description: null
+  displayName: return true
+  expansion: return true;$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [/**]
+  description: null
+  displayName: Start Docblock
+  expansion: "/**\n * $0\n */"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [case]
+  description: null
+  displayName: case ...
+  expansion: "case '${1:variable}':\n\t${0:// code...}\n\tbreak;"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [switch]
+  description: null
+  displayName: switch ...
+  expansion: "switch (${1:variable}) {\n\tcase '${2:value}':\n\t\t${3:// code...}\n\
+    \t\tbreak;\n\t$0\n\tdefault:\n\t\t${4:// code...}\n\t\tbreak;\n}"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [throw]
+  description: null
+  displayName: Throw Exception
+  expansion: 'throw new ${1:Exception}(${2:"Error Processing Request"}, ${3:1});
+
+    $0'
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [while]
+  description: null
+  displayName: while ...
+  expansion: "while (${1:$a <= 10}) {\n\t${0:// code...}\n}"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.php
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [php]
+  description: null
+  displayName: <?php ... ?>
+  expansion: <?${TM_PHP_OPEN_TAG:php} $0 ?>
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: text.html - source
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [this]
+  description: null
+  displayName: <?php $this->... ?>
+  expansion: <?${TM_PHP_OPEN_TAG:php} \$this->$0 ?>
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: text.html - source
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [ethis]
+  description: null
+  displayName: <?php echo $this->... ?>
+  expansion: <?${TM_PHP_OPEN_TAG_WITH_ECHO:php echo} \$this->$0 ?>
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: text.html - source
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [echo]
+  description: null
+  displayName: <?php echo ... ?>
+  expansion: <?${TM_PHP_OPEN_TAG_WITH_ECHO:php echo} ${1:\$var} ?>$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: text.html - source
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [echoh]
+  description: null
+  displayName: <?php echo htmlentities(...) ?>
+  expansion: <?${TM_PHP_OPEN_TAG_WITH_ECHO:php echo} htmlentities(${1:\$var}, ENT_QUOTES, 'utf-8') ?>$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: text.html - source
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [else]
+  description: null
+  displayName: '<?php else: ?>'
+  expansion: '<?${TM_PHP_OPEN_TAG:php} else: ?>'
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: text.html - source
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [foreach]
+  description: null
+  displayName: <?php foreach (...) ... <?php endforeach ?>
+  expansion: "<?${TM_PHP_OPEN_TAG:php} foreach (\\$${1:variable} as \\$${2:key} =>\
+    \ \\$${3:value}): ?>\n\t${0}\n<?${TM_PHP_OPEN_TAG:php} endforeach ?>"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: text.html - source
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [ifelse]
+  description: null
+  displayName: <?php if (...) ?> ... <?php else ?> ... <?php endif ?>
+  expansion: "<?${TM_PHP_OPEN_TAG:php} if (${1:condition}): ?>\n\t$2\n<?${TM_PHP_OPEN_TAG:php}\
+    \ else: ?>\n\t$0\n<?${TM_PHP_OPEN_TAG:php} endif ?>"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: text.html - source
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [if]
+  description: null
+  displayName: <?php if (...) ?> ... <?php endif ?>
+  expansion: "<?${TM_PHP_OPEN_TAG:php} if (${1:condition}): ?>\n\t$0\n<?${TM_PHP_OPEN_TAG:php}\
+    \ endif ?>"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: text.html - source
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.TemplateElement
+  async: false
+  customProperties: null
+  displayName: PHP Template
+  filetype: '*.php'
+  id: null
+  input: []
+  inputPath: null
+  keyBindingMap: null
+  menuId: null
+  outputPath: null
+  outputType: discard
+  path: templates\templates.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+copyright: null
+customProperties: {contact_email_rot_13: pvnjny@tznvy.pbz}
+decreaseIndentMarkers: &id002 {}
+description: <a href="http://www.php.net/">PHP</a> is a widely-used general-purpose scripting language that is especially suited for web development and can be embedded into HTML.
+displayName: PHP
+fileTypeRegistry: *id002
+fileTypes: *id001
+foldingStartMarkers: {!scope 'source.php': !regexp '(?-mix:(\/\*|\{\s*$|<<<HTML))'}
+foldingStopMarkers: {!scope 'source.php': !regexp '(?-mix:(\*\/|^\s*\}|^HTML;))'}
+increaseIndentMarkers: *id002
+license: null
+licenseUrl: null
+path: bundle.rb
+repository: git://github.com/aptana/php.ruble.git
+visible: true
