@@ -1,0 +1,31 @@
+#This is i18n file,please do not delete it!
+#Tue Jan 29 10:57:01 CST 2013
+ExportConnectionsPage_LBL_Options=\u9009\u9879
+ExportConnectionsWizard_Error_Message=\u65E0\u6CD5\u5199\u5165\u5230{0}\u3002
+ExportConnectionsWizard_Overwrite_Title=\u8986\u76D6
+ImportConnectionsWizard_Conflict_Renamed={0} ({1})
+ExportConnectionsWizard_Overwrite_Message=\u4F60\u8981\u8986\u76D6{0}\uFF1F
+ImportConnectionsPage_ERR_InvalidPath=\u8BF7\u6307\u5B9A\u4E00\u4E2A\u6709\u6548\u7684\u8DEF\u5F84
+ImportConnectionsWizard_Conflict_Message=\u8FDE\u63A5\u201C{0}\u201D\u5DF2\u7ECF\u5B58\u5728\u3002\u4F60\u60F3\u8981\u505A\u4EC0\u4E48\uFF1F
+ImportConnectionsPage_SourceType_Workspace=\u5DE5\u4F5C\u533A
+ExportConnectionsPage_ERR_Directory=\u8BF7\u6307\u5B9A\u4E00\u4E2A\u975E\u76EE\u5F55\u7684\u8DEF\u5F84
+ExportConnectionsPage_LBL_File=\u5230\u6587\u4EF6\uFF1A
+ImportConnectionsPage_Title=\u5BFC\u5165\u8FDE\u63A5\u8BBE\u7F6E
+ExportConnectionsPage_Description=\u5BFC\u51FA\u8FDE\u63A5\u8BBE\u7F6E
+ImportConnectionsPage_LBL_Path=\u8DEF\u5F84\uFF1A
+ExportConnectionsPage_Title=\u5BFC\u51FA\u8FDE\u63A5\u8BBE\u7F6E
+ExportConnectionsWizard_ERR_FailSaveExportPrefs=\u65E0\u6CD5\u4FDD\u5B58\u5BFC\u51FA\u504F\u597D
+ImportConnectionsPage_LBL_SourceType=\u5BFC\u5165\u6765\u6E90\uFF1A
+ImportConnectionsPage_ERR_InvalidFile=\u8BF7\u6307\u5B9A\u4E00\u4E2A\u6587\u4EF6
+ExportConnectionsWizard_Error_Title=\u9519\u8BEF
+ImportConnectionsPage_SourceType_File=\u6587\u4EF6
+ImportConnectionsPage_ERR_EmptyPath=\u8BF7\u6307\u5B9A\u4E00\u4E2A\u8DEF\u5F84\u3002
+ImportConnectionsWizard_Conflict_LBL_Apply=\u9002\u7528\u4E8E\u6240\u6709\u51B2\u7A81
+ImportConnectionsWizard_Title=\u5BFC\u5165\u8FDE\u63A5\u8BBE\u7F6E
+ImportConnectionsWizard_Conflict_Title=\u8FDE\u63A5\u5BFC\u5165\u51B2\u7A81
+ImportConnectionsWizard_Info_Title=\u5BFC\u5165\u5B8C\u6210
+ImportConnectionsWizard_Info_Message=\u5BFC\u5165{0}\u7684\u8FDE\u63A5\u70B9\u548C{1}\u8FDE\u63A5\u3002
+ImportConnectionsPage_Description=\u5BFC\u5165\u8FDE\u63A5\u8BBE\u7F6E
+ImportConnectionsPage_ERR_InvalidDirectory=\u8BF7\u6307\u5B9A\u4E00\u4E2A\u76EE\u5F55
+ExportConnectionsPage_LBL_OverwriteWithoutWarning=\u8986\u76D6\u73B0\u6709\u7684\u6587\u4EF6\uFF0C\u800C\u4E0D\u8B66\u544A
+ExportConnectionsPage_ERR_EmptyFile=\u8BF7\u6307\u5B9A\u4E00\u4E2A\u6587\u4EF6

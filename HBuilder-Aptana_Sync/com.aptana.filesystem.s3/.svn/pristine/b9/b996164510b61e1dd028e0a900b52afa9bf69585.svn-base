@@ -1,0 +1,6 @@
+#This is i18n file,please do not delete it!
+#Tue Jan 29 10:57:00 CST 2013
+connectionPointCategory.s3.name=S3
+providerName=Pandora
+pluginName=Pandora S3\u6587\u4EF6\u7CFB\u7EDF\u63D0\u4F9B\u5546
+connectionPointType.s3.name=S3

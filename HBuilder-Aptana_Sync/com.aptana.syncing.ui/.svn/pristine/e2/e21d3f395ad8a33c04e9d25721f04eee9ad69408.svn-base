@@ -1,0 +1,8 @@
+#This is i18n file,please do not delete it!
+#Tue Jan 29 10:57:01 CST 2013
+ProjectConnectionDisconnectAction_Disconnecting=\u65AD\u5F00{0}
+RemoteConnectionManagerAction_LBL_ConnectionManager=\u8FDE\u63A5\u7BA1\u7406\u5668...
+DoubleClickAction_NewConnection=\u65B0\u5EFA\u8FDE\u63A5
+NavigatorSynchronizeAction_LBL_Synchronize=\u540C\u6B65
+NavigatorDownloadAction_LBL_Download=\u4E0B\u8F7D
+NavigatorUploadAction_LBL_Upload=\u4E0A\u4F20

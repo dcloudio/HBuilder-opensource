@@ -1,0 +1,25 @@
+#This is i18n file,please do not delete it!
+#Tue Jan 29 10:57:01 CST 2013
+FTPManagerComposite_TTP_Synchronize=\u540C\u6B65\u4E24\u70B9\u4E4B\u95F4\u7684\u6240\u6709\u6587\u4EF6
+FTPManagerComposite_SyncErrorDialog_Message=\u65E0\u6CD5\u6253\u5F00\u540C\u6B65\u5BF9\u8BDD\u6846\u3002\u6765\u6E90\u6216\u76EE\u6807\u7AEF\u70B9\u662F\u65E0\u6548\u7684
+FTPManagerComposite_NameInput_Message=\u8BF7\u6307\u5B9A\u65B0\u8FDE\u63A5\u7684\u540D\u79F0
+FTPManagerComposite_TTP_TransferLeft=\u4F20\u8F93\u53F3\u4FA7\u6240\u9009\u9879\u76EE\u5230\u5DE6\u4FA7
+FTPManagerComposite_LBL_Target=\u76EE\u6807
+ConnectionPointComposite_Column_LastModified=\u4FEE\u6539\u65F6\u95F4
+FTPManagerComposite_TTP_Edit=\u7F16\u8F91\u8FDE\u63A5\u4FE1\u606F
+FTPManagerComposite_TTP_TransferRight=\u4F20\u8F93\u5DE6\u4FA7\u6240\u9009\u9879\u76EE\u5230\u53F3\u4FA7
+ConnectionPointComposite_LBL_Transfer=\u4F20\u8F93
+FTPManagerComposite_LBL_SaveAs=\u53E6\u5B58\u4E3A
+FTPManagerComposite_ERR_CreateNewSiteFailed=\u521B\u5EFA\u65B0\u7684\u7AD9\u70B9\u8FDE\u63A5\u5931\u8D25
+ConnectionPointComposite_Column_Filename=\u6587\u4EF6\u540D
+ConnectionPointComposite_LBL_Path=\u8DEF\u5F84\uFF1A
+FTPManagerComposite_SyncErrorDialog_Title=\u6253\u5F00\u540C\u6B65\u5BF9\u8BDD\u6846\u51FA\u9519
+FTPManagerComposite_LBL_Sites=\u8FDE\u63A5\uFF1A
+FTPManagerComposite_NameInput_Title=\u8FDE\u63A5\u540D\u79F0
+FTPManagerComposite_TTP_SaveAs=\u53E6\u5B58\u5F53\u524D\u8FDE\u63A5
+FTPManagerComposite_ERR_NameExists=\u540D\u79F0\u4E3A"{0}"\u7684\u8FDE\u63A5\u5DF2\u5B58\u5728
+FTPManagerComposite_ERR_EmptyName=\u540D\u79F0\u4E0D\u80FD\u4E3A\u7A7A
+ConnectionPointComposite_Column_Size=\u5927\u5C0F
+FTPManagerComposite_LBL_Source=\u6765\u6E90
+ConnectionPointComposite_TTP_Refresh=\u5237\u65B0\u5F53\u524D\u5185\u5BB9
+ConnectionPointComposite_TTP_Home=\u8FD4\u56DE\u5230\u6839\u76EE\u5F55

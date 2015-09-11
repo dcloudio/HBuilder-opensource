@@ -1,0 +1,5 @@
+providerName = HBuilder
+pluginName = HBuilder FTP Filesystem
+
+connectionPointCategory.name.ftp = FTP
+connectionPointType.name.ftp = FTP

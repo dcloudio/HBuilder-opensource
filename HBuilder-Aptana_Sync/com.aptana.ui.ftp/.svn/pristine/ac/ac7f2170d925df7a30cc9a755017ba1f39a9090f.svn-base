@@ -1,0 +1,12 @@
+#This is i18n file,please do not delete it!
+#Tue Jan 29 10:57:01 CST 2013
+UpdatePermissionsComposite_ForFolders=\u6587\u4EF6\u5939
+FTPPreferencePage_ERR_Invalid_KeepAlive_Time=\u8BF7\u4E3A\u4FDD\u6301\u6253\u5F00\u5206\u949F\u8F93\u5165\u4E00\u4E2A\u6B63\u6574\u6570
+UpdatePermissionsComposite_LBL_UpdatePermissions=Update\u6743\u9650
+FTPPreferencePage_LBL_Downloads=\u4E0B\u8F7D
+FTPPreferencePage_LBL_Uploads=\u4E0A\u4F20
+FTPPreferencePage_LBL_KeepAlive=FTP\u8FDE\u63A5\u4FDD\u6301\u6253\u5F00\u7684\u5206\u949F\u6570\uFF1A
+UpdatePermissionsComposite_LBL_ToSpecificPermissions=\u4EE5\u4E0B\u6743\u9650
+UpdatePermissionsComposite_ForFiles=\u6587\u4EF6
+UpdatePermissionsComposite_LBL_ToSourcePermissions=\u6E90\u6587\u4EF6\u6216\u6587\u4EF6\u5939\u7684\u6743\u9650
+FTPPreferencePage_Notes=\u9002\u7528\u4E8E\u4F20\u8F93\u65F6\u521B\u5EFA\u7684\u65B0\u6587\u4EF6\u548C\u6587\u4EF6\u5939\u7684\u6743\u9650\u8BBE\u7F6E\u3002

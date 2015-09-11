@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: com.aptana.deploy;singleton:=true
+Bundle-Version: 3.0.3.qualifier
+Bundle-Activator: com.aptana.deploy.DeployPlugin
+Bundle-Vendor: %providerName
+Require-Bundle: com.aptana.core;bundle-version="3.0.4",
+ com.aptana.scripting
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-ActivationPolicy: lazy
+Export-Package: com.aptana.deploy,
+ com.aptana.deploy.preferences,
+ com.aptana.deploy.util
+Eclipse-ExtensibleAPI: true

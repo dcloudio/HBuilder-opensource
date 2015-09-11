@@ -1,0 +1,8 @@
+#This is i18n file,please do not delete it!
+#Tue Jan 29 10:57:00 CST 2013
+S3ConnectionPoint_FailToConnect=\u8FDE\u63A5\u5931\u8D25\u3002\u65E0\u6548\u51ED\u636E\uFF1F
+S3FileStore_EnterAccessKey=\u8BF7\u8F93\u5165\u60A8\u7684\u79D8\u5BC6\u8BBF\u95EE\u952E\u3002
+S3FileStore_ParentNotExist=\u4E0A\u7EA7\u4E0D\u5B58\u5728
+S3FileStore_ParentNotADirectory=\u4E0A\u7EA7\u76EE\u5F55\u4E0D\u662F\u76EE\u5F55
+S3FileStore_Authentication=S3\u8BA4\u8BC1\u4E3A{0}
+S3FileStore_DestinationExists=\u672A\u6307\u5B9A\u76EE\u6807\u5B58\u5728\u548C\u8986\u76D6\u6807\u5FD7

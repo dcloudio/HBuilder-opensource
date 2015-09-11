@@ -1,0 +1,15 @@
+#This is i18n file,please do not delete it!
+#Tue Jan 29 10:57:01 CST 2013
+DownloadAction_MessageTitle=\u4E0B\u8F7D
+NewSiteAction_LBL_New=\u65B0\u5EFA\u8FDE\u63A5
+DownloadAction_PostMessage={0}\u9879\u6570\u636E\u5DF2\u4E0B\u8F7D\u3002\n{1}\u4E2A\u6587\u4EF6\u5939\u5DF2\u521B\u5EFA\u3002
+DownloadAction_ERR_FailToDownload=\u4E0B\u8F7D\u6587\u4EF6\u5931\u8D25
+UploadAction_ERR_FailToUpload=\u4E0A\u4F20\u6587\u4EF6\u5931\u8D25
+SynchronizeProjectAction_ERR_OpeningSyncDialog=\u65E0\u6CD5\u6253\u5F00\u540C\u6B65\u5BF9\u8BDD\u6846\u3002
+UploadAction_MessageTitle=\u4E0A\u4F20
+BaseSyncAction_MessageTitle=\u540C\u6B65
+UploadAction_PostMessage={0}\u9879\u6570\u636E\u5DF2\u4E0A\u4F20\u3002\n{1}\u4E2A\u6587\u4EF6\u5939\u5DF2\u521B\u5EFA\u3002
+SynchronizeAction_MessageTitle=\u540C\u6B65
+SynchronizeFilesAction_ERR_OpeningSyncDialog=\u65E0\u6CD5\u6253\u5F00\u540C\u6B65\u5BF9\u8BDD\u6846\u3002
+BaseSyncAction_RetrievingItems=\u68C0\u7D22\u6570\u636E
+BaseSyncAction_Warning_NoCommonParent=\u65E0\u6CD5\u6267\u884C\u8BE5\u64CD\u4F5C\uFF0C\u56E0\u4E3A\u9009\u5B9A\u7684\u5143\u7D20\u4E0D\u5C5E\u4E8E\u516C\u5171\u7AD9\u70B9\u7684\u6E90\u4F4D\u7F6E\u3002

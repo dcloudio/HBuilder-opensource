@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension-point id="deployProviders" name="%deployProviders.extension.name" schema="schema/deployProviders.exsd"/>
+   <extension
+         point="org.eclipse.core.expressions.propertyTesters">
+      <propertyTester
+            class="com.aptana.deploy.internal.ProjectPropertyTester"
+            id="com.aptana.deploy.projectPropertyTester"
+            namespace="com.aptana.deploy.project"
+            properties="isDeployable,isDeployType"
+            type="org.eclipse.core.runtime.IAdaptable">
+      </propertyTester>
+   </extension>
+</plugin>

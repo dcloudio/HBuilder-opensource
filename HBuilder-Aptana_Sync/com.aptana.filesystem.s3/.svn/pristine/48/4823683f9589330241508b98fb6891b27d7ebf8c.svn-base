@@ -1,0 +1,5 @@
+#Properties file for com.aptana.filesystem.s3
+providerName = Pandora
+pluginName = Pandora S3 Filesystem Provider
+connectionPointCategory.s3.name = S3
+connectionPointType.s3.name = S3

@@ -1,0 +1,3 @@
+#Properties file for com.aptana.ide.syncing.core
+providerName = HBuilder
+pluginName = HBuilder Syncing Core

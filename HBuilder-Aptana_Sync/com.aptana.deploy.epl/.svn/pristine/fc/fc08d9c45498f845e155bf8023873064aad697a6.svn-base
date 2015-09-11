@@ -1,0 +1,8 @@
+#Properties file for com.aptana.deploy.epl
+providerName = HBuilder
+pluginName = HBuilder Deploy (EPL)
+
+Deploy.label = Deploy App
+DeployWizard.label = Run Web Deployment Wizard...
+command.deploysettings.name = Deployment Settings...
+extension-point.deploy.name = Deployment Wizard
