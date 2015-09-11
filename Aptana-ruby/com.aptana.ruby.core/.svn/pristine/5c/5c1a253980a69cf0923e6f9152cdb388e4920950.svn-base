@@ -1,0 +1,18 @@
+en:
+  bundle_name: 'Sass'
+  background: 'Background'
+  border: 'Border'
+  cursor: 'Cursor'
+  color: 'Color'
+  display: 'Display'
+  font: 'Font'
+  list_style: 'List Style'
+  margin: 'Margin'
+  padding: 'Padding'
+  text: 'Text'
+  other: 'Other'
+  attribute_selector: 'Attribute Selector'
+  compile_sass: 'Compile SASS'
+  convert_css_to_sass: 'Convert CSS to SASS'
+  insert_color: 'Insert Color...'
+  

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.radrails.rails"
+      label="%featureName"
+      version="0.0.0.qualifier"
+      provider-name="%providerName"
+      plugin="com.aptana.editor.ruby">
+
+   <description url="http://www.aptana.com">
+      %description
+   </description>
+
+   <copyright url="http://www.aptana.com">
+      %copyright
+   </copyright>
+
+   <requires>
+      <import plugin="org.eclipse.core.runtime"/>
+      <import plugin="org.eclipse.ui"/>
+      <import plugin="org.eclipse.ui.console"/>
+      <import plugin="org.eclipse.debug.ui"/>
+      <import plugin="org.eclipse.ui.ide" version="3.4.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.core.filesystem"/>
+      <!--import plugin="com.aptana.git.ui" version="3.0.0" match="greaterOrEqual"/>
+      <import plugin="com.aptana.terminal"/>
+      <import plugin="com.aptana.explorer"/-->
+      <import plugin="com.aptana.scripting"/>
+      <import plugin="com.aptana.editor.common"/>
+      <import plugin="org.eclipse.ui.workbench.texteditor"/>
+      <import plugin="org.eclipse.jface.text" version="3.4.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui.navigator"/>
+      <import plugin="com.aptana.workbench"/>
+      <import plugin="com.aptana.editor.html"/>
+      <import plugin="com.aptana.editor.js"/>
+      <import plugin="org.eclipse.core.resources" version="3.4.0" match="greaterOrEqual"/>
+      <import plugin="com.aptana.theme"/>
+      <import plugin="org.eclipse.ui.editors" version="3.4.0" match="greaterOrEqual"/>
+      <import plugin="com.aptana.ui"/>
+      <import plugin="org.eclipse.debug.core"/>
+      <import plugin="com.aptana.parsing"/>
+      <import plugin="com.aptana.index.core"/>
+      <import plugin="org.eclipse.ui.views"/>
+      <import plugin="org.jruby"/>
+      <import plugin="com.aptana.formatter.epl"/>
+      <import plugin="com.aptana.formatter.ui.epl"/>
+      <import plugin="com.aptana.ui.epl"/>
+      <import plugin="com.aptana.editor.xml"/>
+      <import plugin="com.aptana.editor.css"/>
+      <import plugin="beaver"/>
+      <import plugin="org.eclipse.jface" version="3.4.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui.workbench" version="3.4.0" match="greaterOrEqual"/>
+      <import plugin="com.aptana.ruby.core"/>
+      <import plugin="com.aptana.core"/>
+      <import plugin="org.jrubyparser"/>
+      <import plugin="com.aptana.editor.ruby"/>
+      <import plugin="org.eclipse.core.expressions"/>
+   </requires>
+
+   <plugin
+         id="org.radrails.rails.ui"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.radrails.rails.core"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.ruby.debug.ui"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.ruby.debug.core"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.ruby.launching"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.ruby.core"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.ruby.ui"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.editor.ruby"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.editor.ruby.formatter.epl"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.editor.erb"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.editor.haml"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.jrubyparser"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.editor.sass"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.ruby.rake"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <!--plugin
+         id="com.aptana.deploy.capistrano"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.deploy.engineyard"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.deploy.heroku"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/-->
+
+</feature>

@@ -1,0 +1,45 @@
+en:
+  bundle_name: 'Ruby'
+  run: "Run"
+  run_focused_test: "Run Focused Unit Test"
+  run_tests: 'Run Tests in Current File'
+  doc_for_word: "Documentation for Word"
+  rdoc: "RDoc"
+  show_for_file: 'Show for Current File / Project'
+  format: 'Format'
+  bold: "Bold"
+  italic: "Italic"
+  typewriter: "Typewriter"
+  omit: "Omit"
+  open_require: "Open require"
+  validate_syntax: "Validate Syntax"
+  validate_syntax_erb: "Validate Syntax (ERB)"
+  execute_as_ruby: "Execute Line / Selection as Ruby"
+  execute_and_update_hash_markers: "Execute and Update '# =>' Markers"
+  add_hash_marker: "Add '# =>' Marker"
+  insert_missing_requires: "Insert Missing requires"
+  add_bang_to_method: "Add ! to Method in Line"
+  toggle_string_symbol: "Toggle String / Symbol"
+  insert_erb_tags: "Insert ERb's <% .. %> or <%= ..  %>"
+  declarations: "Declarations"
+  new_method: "New Method"
+  classes_and_modules: 'Classes and Modules'
+  methods: 'Methods'
+  iterators: "Iterators"
+  arrays: "Arrays"
+  counting: "Counting"
+  each_element: "Each Element"
+  ordering: "Ordering"
+  search_and_selection: "Searching and Selection"
+  strings: "Strings"
+  blocks: "Blocks"
+  toggle_block: "Toggle 'do ... end' / '{ ... }'"
+  insert_block: 'Insert { |variable| ... }'
+  insert_multiline_block: 'Insert do |variable| ... end'
+  hashes: "Hashes"
+  files: "Files"
+  tests: "Tests"
+  serialization: "Serialization"
+  idioms: "Idioms"
+  rake: "Rake"
+  run_rake_task: "Run Rake Task"

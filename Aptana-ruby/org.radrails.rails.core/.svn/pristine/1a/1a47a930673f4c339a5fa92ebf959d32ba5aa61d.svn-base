@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <!--TODO 暂时屏蔽-->
+   <!--extension
+         id="railsnature"
+         name="%extension.railsnature.name"
+         point="org.eclipse.core.resources.natures">
+      <runtime>
+         <run
+               class="org.radrails.rails.core.RailsProjectNature">
+         </run>
+      </runtime>
+   </extension>
+   <extension
+         point="com.aptana.webserver.core.webServerTypes">
+      <type
+            class="org.radrails.rails.core.RailsServer"
+            id="org.radrails.rails.railsServer"
+            name="%rails.server.type.name">
+      </type>
+   </extension-->
+
+</plugin>

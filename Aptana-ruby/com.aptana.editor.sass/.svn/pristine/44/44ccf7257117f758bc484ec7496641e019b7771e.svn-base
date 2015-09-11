@@ -1,0 +1,7 @@
+providerName = Aptana
+pluginName = Aptana Sass Editor
+
+editor.sass.name = Sass Editor
+editor.less.name = Less Editor
+content-type.sass.name = Sass Source
+content-type.less.name = Less Source
